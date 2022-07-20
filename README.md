@@ -1,13 +1,14 @@
 # Test Backend SUPER-MELI
 
-Antes de todo instalar el proyecto
+Antes de todo instalar el proyecto y ejecutarlo
 * npm install
+* npm run start
 
 Este proyecto es una prueba técnica de backend para MELI.
 
 ## END POINTS 🚀
 * GET ->  http://localhost:3000/v1/api/items?q={query}
-* GET  -> http://localhost:3000/v1/api/items/q={productId}
+* GET  -> http://localhost:3000/v1/api/items/{productId}
 
 Por medio de estos 2 endpoints, podemos realizar los ejercicios solicitados en la prueba y de esta manera, generar la información necesaria para que el FrontEnd la consuma.
 
