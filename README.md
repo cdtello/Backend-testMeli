@@ -2,7 +2,7 @@
 
 Antes de todo instalar el proyecto y ejecutarlo
 * npm install
-* npm run start
+* npm run dev
 
 Este proyecto es una prueba técnica de backend para MELI.
 
